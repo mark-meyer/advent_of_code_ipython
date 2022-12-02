@@ -1,6 +1,6 @@
-# Advent of Code 2021
+# Advent of Code
 
-This is just a running Jupyter Notebook.
+Each day is in a Jupyter Notebook running python.
 
 For viewing and running in VS Code, Jupyter has a [nice extension](https://marketplace).visualstudio.com/items?itemName=ms-toolsai.jupyter
 
